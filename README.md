@@ -2,7 +2,7 @@
   This repository contains all the file of Summer-Olympics-Data-Analysis Assignment by Elite Techno Groups
 ## About this repository
   This repository contains two files
-  1. Summer.ipynb
+  1. Summer.ipynb : It has all questions and answers
   2. summer.csv
 
 ## Social Media and other useful links
